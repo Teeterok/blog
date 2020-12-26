@@ -1623,6 +1623,7 @@ border-radius: 8px;
 }
 
 .pagination {
+	margin-right: -20px;
 
 }
 .pagination__bottom ul {
